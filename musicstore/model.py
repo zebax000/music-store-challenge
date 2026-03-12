@@ -1,3 +1,4 @@
 from datetime import datetime
 
-# TODO: Add code here
+class Transaction:
+    def __init__(self):
